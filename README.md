@@ -1,2 +1,2 @@
 # hello-word
-primer repositorio
+Autor Jorge Cabeza Campos curso 6j de FP DAM
